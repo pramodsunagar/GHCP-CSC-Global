@@ -25,7 +25,7 @@ This lab teaches how to use GitHub Copilot's **Ask**, **Edit**, and **Agent Mode
 
 #### **Prompt (Ask Mode)**
 
-Create an ASP.NET Core Web API project with a health check endpoint `/health` returning `{ status: "ok" }`. Provide the folder structure, commands, and code.
+@workspace /new Create an ASP.NET Core Web API project with a health check endpoint `/health` returning `{ status: "ok" }`. Provide the folder structure, commands, and code.
 
 ---
 
